@@ -1,0 +1,11 @@
+git init
+git config --list
+git config --global user.name ""
+git config --global user.email ""
+git config --global init.defaultbranch ...
+git branch -m ...
+
+git add filename //files hozzaadasa a stagehez
+git commit -m "megjegyzes"
+git status //aktualis allapot
+git log // korabbi commitok lekerdezesegit 
