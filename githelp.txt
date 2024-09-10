@@ -9,3 +9,12 @@ git add filename //files hozzaadasa a stagehez
 git commit -m "megjegyzes"
 git status //aktualis allapot
 git log // korabbi commitok lekerdezesegit 
+
+
+osszekapcsolas tavoli repository-val.
+git remote add origin https://github.com/szaszbeni/gittest.git
+git push -u origin main
+
+git pull
+git push
+
